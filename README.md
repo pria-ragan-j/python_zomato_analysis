@@ -2,9 +2,9 @@
 
 This project analyzes the Zomato restaurants in India dataset
 
-Overview This project analyzes the zomato_restaurants_in_India.csv dataset. The dataset includes various features of restaurants such as restaurant ID, name, establishment type, location, ratings, price range, and more. The analysis includes data cleaning, visualization, and statistical analysis to derive insights about the restaurants listed on Zomato in India.
+Overview This project analyzes the ZomatoRestaurantsIndia.csv dataset. The dataset includes various features of restaurants such as restaurant ID, name, establishment type, location, ratings, price range, and more. The analysis includes data cleaning, visualization, and statistical analysis to derive insights about the restaurants listed on Zomato in India.
 
-Dataset The dataset zomato_restaurants_in_India.csv consists of the following key columns:
+Dataset The dataset ZomatoRestaurantsIndia.csv consists of the following key columns:
 
 res_id: Restaurant ID name: Restaurant Name establishment: Type of establishment url: Zomato URL of the restaurant address: Address of the restaurant City: City where the restaurant is located locality: Locality of the restaurant latitude and longitude: Geographical coordinates aggregate_rating: Aggregate rating of the restaurant rating_text: Textual rating votes: Number of votes price_range: Price range of the restaurant highlights: Key features of the restaurant cuisines: Types of cuisines offered Key Analysis Steps Data Loading and Inspection: The script starts by uploading the dataset and inspecting the first few rows using Pandas.
 
